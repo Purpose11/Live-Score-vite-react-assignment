@@ -37,6 +37,7 @@ body {
 }
 .club-logo img{
   height: 100px;
+  transition: 1.5s ease;
 }
 .club-logo p{
   font-weight: bold;
